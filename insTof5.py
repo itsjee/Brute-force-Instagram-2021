@@ -36,8 +36,8 @@ class InstaBrute (object):
     def __init__(self):
 
         try:
-            user = input ('username : ')
-            Combo = input ('passList : ')
+            user = input ('username : its.turkan_')
+            Combo = input ('passList : pass.txt')
             print ('\n----------------------------')
 
         except:
